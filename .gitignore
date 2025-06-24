@@ -1,0 +1,9 @@
+# .gitignore
+data/insurance_data.csv
+.dvc/tmp
+dvc_storage/
+__pycache__/
+*.ipynb_checkpoints
+.env
+*.pyc
+reports/figures/*.png  # We'll generate these from code
