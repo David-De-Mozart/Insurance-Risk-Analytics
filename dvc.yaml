@@ -1,0 +1,20 @@
+stages:
+  preprocess:
+    cmd: python src/data_preprocessing.py
+    deps:
+      - src/data_preprocessing.py
+      - data/insurance_data.csv
+    outs:
+      - data/processed_data.csv
+
+  eda:
+    cmd: python src/run_eda.py
+    deps:
+      - src/run_eda.py
+      - src/visualization.py
+      - data/processed_data.csv
+    outs:
+      - reports/figures/monthly_trends.png
+      - reports/figures/province_risk.png
+      - reports/figures/vehicle_risk.png
+      - reports/figures/financial_outliers.png

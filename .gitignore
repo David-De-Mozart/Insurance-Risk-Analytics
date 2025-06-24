@@ -1,9 +1,31 @@
-# .gitignore
+# Data
 data/insurance_data.csv
+data/processed_data.csv
+
+# DVC
 .dvc/tmp
 dvc_storage/
+
+# Python
 __pycache__/
-*.ipynb_checkpoints
-.env
 *.pyc
-reports/figures/*.png  # We'll generate these from code
+*.pyo
+*.pyd
+
+# Environment
+.env
+.venv/
+venv/
+
+# Notebooks
+*.ipynb_checkpoints
+
+# Logs
+*.log
+
+# Models
+models/
+
+# OS
+.DS_Store
+Thumbs.db
