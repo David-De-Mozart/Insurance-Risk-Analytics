@@ -1,0 +1,83 @@
+Feature,Mean |SHAP|
+num__ExcessSelected,2.639331
+cat__make_POLARSUN,1.2840016
+cat__make_SAIC,0.9081619
+cat__CoverType_Factory Fitted Sound and Other Electronic Equipment,0.5180101
+cat__make_BMW,0.42759
+cat__make_Unknown,0.42144683
+cat__CoverType_Roadside Assistance,0.38960323
+cat__CoverType_Third Party Only,0.37923858
+cat__CoverType_Deposit Cover,0.3710023
+cat__make_NISSAN,0.34398744
+cat__make_SUZUKI,0.3197351
+cat__VehicleType_Light Commercial,0.31247702
+cat__CoverType_Credit Protection,0.29015678
+cat__VehicleType_Heavy Commercial,0.2789745
+cat__Province_KwaZulu-Natal,0.26357856
+cat__make_CHEVROLET,0.26023528
+num__SumInsured,0.25432092
+cat__make_FIAT,0.24854325
+cat__CoverType_Own Damage,0.23897906
+cat__make_HYUNDAI,0.23601574
+cat__CoverType_Trailer,0.23398906
+num__VehicleAge,0.22725835
+cat__CoverType_Emergency Charges,0.21011312
+cat__make_B.A.W,0.1791514
+num__CustomValueEstimate,0.14146575
+cat__Province_North West,0.12529284
+cat__CoverType_Keys and Alarms,0.120049775
+cat__Province_Free State,0.11989532
+cat__Province_Mpumalanga,0.118817694
+cat__VehicleType_60058420,0.11788692
+cat__CoverType_Income Protector,0.11167905
+cat__CoverType_Windscreen,0.110858746
+cat__Province_Gauteng,0.10713986
+cat__make_AUDI,0.08492459
+cat__make_MAZDA,0.07981687
+cat__CoverType_Third Party,0.07694468
+cat__Province_Northern Cape,0.07663653
+cat__make_NISSAN/DATSUN,0.07430006
+cat__make_GOLDEN JOURNEY,0.07233197
+cat__make_C.A.M,0.0634688
+cat__make_CMC,0.062294334
+cat__make_MITSUBISHI,0.059610244
+cat__make_JINBEI,0.055923883
+cat__make_MERCEDES-BENZ,0.04932969
+cat__Province_Limpopo,0.04771984
+cat__VehicleType_Medium Commercial,0.04512404
+cat__Province_Western Cape,0.037042093
+cat__VehicleType_60058415,0.03122516
+cat__make_VOLKSWAGEN,0.017297117
+cat__make_TOYOTA,0.016898982
+cat__Province_Eastern Cape,0.014828724
+cat__CoverType_Windscreen (2015),0.009260846
+cat__make_IVECO,0.008026413
+cat__make_2015,0.006163969
+cat__CoverType_Accidental Death,0.00491335
+cat__VehicleType_47048275,0.0041292985
+cat__CoverType_Cleaning and Removal of Accident Debris,0.0037463673
+cat__CoverType_Signage and Vehicle Wraps,0.0034050597
+cat__CoverType_Basic Excess Waiver,0.003058823
+cat__CoverType_Passenger Liability,0.0021357406
+cat__VehicleType_60058419,0.001363949
+cat__make_2006,0.0008084571
+cat__CoverType_Own Damage ,0.0007306905
+cat__VehicleType_60056987,0.0005864547
+cat__VehicleType_60052110,0.00044767812
+cat__VehicleType_Passenger Vehicle,0.0003512402
+cat__CoverType_Own Damage.,0.0
+cat__VehicleType_60058418,0.0
+cat__make_FORD,0.0
+cat__VehicleType_60052260,0.0
+cat__make_JMC,0.0
+cat__CoverType_Own damage,0.0
+cat__make_2013,0.0
+cat__VehicleType_11510120,0.0
+cat__make_2007,0.0
+cat__make_2008,0.0
+cat__VehicleType_64082300,0.0
+cat__make_2009,0.0
+cat__make_2010,0.0
+cat__make_2012,0.0
+cat__make_2014,0.0
+cat__VehicleType_60058407,0.0
